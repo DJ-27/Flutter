@@ -8,7 +8,6 @@ home: Scaffold(
     backgroundColor: Colors.blueAccent,
   ),
   backgroundColor: Colors.red[200],
-  floatingActionButton:
 ),
 ));
 
