@@ -3,7 +3,7 @@ void main() =>runApp(MaterialApp(
 home: Scaffold(
   appBar:AppBar(
     title: Center(
-      child: Text('awtwreyweryq'),
+      child: Text('Hello'),
     ),
     backgroundColor: Colors.blueAccent,
   ),
